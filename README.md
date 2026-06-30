@@ -1,5 +1,13 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducbm051291&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ducbm051291&theme=tokyonight)](https://git.io/streak-stats)
+### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducbm051291&layout=compact&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](./profile/stats.svg)
+
+![GitHub Streak](./profile/streak.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
+<sub>Cards refresh daily via <a href="https://github.com/ducbm051291/ducbm051291/actions">GitHub Actions</a>.</sub>
+
+</div>
