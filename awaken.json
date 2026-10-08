@@ -1,0 +1,11 @@
+{
+  "username": "ducbm051291",
+  "layout": "default",
+  "theme": "solo_leveling",
+  "activity": "arise",
+  "icons": "rune",
+  "motion": "full",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "hours": true,
+  "arsenal": ["Flutter", "Dart", "Swift", "Kotlin", "TypeScript", "Git"]
+}
