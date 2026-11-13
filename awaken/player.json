@@ -2,7 +2,7 @@
   "login": "ducbm051291",
   "level": 19,
   "overall": "S",
-  "overallPercentile": 0.9724644393144782,
+  "overallPercentile": 0.9725186739572057,
   "layout": "default",
   "class": {
     "name": "Ranger",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 559,
+      "value": 564,
       "rank": "S",
-      "percentile": 0.9415366136210332
+      "percentile": 0.9422086407595924
     },
     {
       "code": "AGI",
@@ -48,7 +48,15 @@
       "percentile": 0.812807557345121
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-13T22:31:13.715Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -68,7 +76,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 559
+      "value": 564
     },
     {
       "id": "unbroken",
@@ -143,7 +151,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 227
+      "value": 228
     },
     {
       "id": "daily-grinder",
@@ -157,8 +165,8 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 49
+      "tier": 1,
+      "value": 50
     },
     {
       "id": "boss-slayer",
@@ -168,7 +176,7 @@
     {
       "id": "escape-artist",
       "tier": 1,
-      "value": 3
+      "value": 4
     },
     {
       "id": "collector",
@@ -178,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 0,
@@ -367,14 +380,14 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 49,
+    "questsDone": 50,
     "bosses": [
       "2026-10-26",
       "2026-10-19",
       "2026-10-12",
       "2026-10-05"
     ],
-    "escapes": 3,
+    "escapes": 4,
     "kinds": [
       "contribute",
       "streak",
@@ -383,5 +396,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-11-12T22:40:58.188Z"
+  "syncedAt": "2026-11-13T22:31:13.715Z"
 }
