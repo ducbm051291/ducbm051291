@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 2,
-      "value": 227
+      "value": 228
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 71
+      "value": 73
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -437,7 +442,7 @@
     "perfectDays": 4,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 71,
+    "questsDone": 73,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -455,5 +460,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:08.954Z"
+  "syncedAt": "2026-11-28T00:28:50.691Z"
 }
